@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Hang Wang
+## Welcome to My personal pages
 
 You can use the [editor on GitHub](https://github.com/wanghangpsu/wanghang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
